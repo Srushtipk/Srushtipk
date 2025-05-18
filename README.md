@@ -5,13 +5,11 @@ I believe in learning by doing and enjoy turning ideas into working products.<br
 
 ### 👩‍💻 What I Do:
 - 🌐 I design and develop modern, responsive websites using HTML, CSS, JavaScript, and MongoDB.<br>
-- 📊 I love combining tech and business—currently learning how to monetize open-source platforms.<br>
+- 📊 I love combining tech and business currently learning how to monetize open-source platforms.<br>
 
 ### 🎯 Current Goals:
 - Launch my own web-based projects from scratch<br>
 - Learn advanced backend and deployment skills<br>
-- Become a confident public speaker<br>
-- Build a strong portfolio and prepare for a master's abroad<br>
 
 ### 📫 Let’s connect!
 Feel free to reach out if you want to collaborate, brainstorm ideas, or just chat about tech and creativity.<br>
